@@ -67,7 +67,7 @@ Now, the use of Block Chain is that all the data stored and code is in form of s
 # How to set it up locally?:
 1. Fork the Repository.
 2. Clone the Repository.
-3. use flutter run.
+3. use ``` flutter run ```.
 
 # Getting Started
 This project is a starting point for a Flutter application.
