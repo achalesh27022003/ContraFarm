@@ -19,13 +19,23 @@ The solution we proposed is like wise that we are developing  a digital solution
 Now, the use of Block Chain is that all the data stored and code is in form of smart contract and get added to its Block Chain in every instance of update. Smart Contract includes data about what, who & when about the tender, bidding prices etc and then the time when middle man validate it and then this data is transferred to farmer, what is his finalised average price and then this data is transferred to APMC for validation and thus to company, after that how company validate which middlemen from that area etc and all this huge data is displayed to everyone (farmers, company, middleman, govt. officials), therefore transparency  is withheld throughout this process via Contra-Farm app -transparent, easily accessible, and efficient marketing platform.
 
 # Tech-Stack Used:
-1. Flutter Development (Dart)
+1. Flutter Development (**Dart**)
 2. BlockChain (**Ethereum Track**)
-
-# Video Demo:
+3. Web3
+4. MetaMask
+5. Rinekby Test Network
 
 # SnapShots:
+<img src="snapshots/3.jpeg" width="280" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="snapshots/1.jpeg" width="280" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="snapshots/2.jpeg" width="280" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="snapshots/4(1).jpeg" width="280" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="snapshots/5.jpeg" width="280" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="snapshots/6.jpeg" width="280" height="500"> &nbsp;&nbsp;&nbsp;
 
+# Video Demo & WorkFlow Visualisation:
+1. [Let's See Demo]() 
+2. [WorkFlow Visualisation]()
 
 # Contributors ✨:
 1. **Team Name:** COMET LABS
