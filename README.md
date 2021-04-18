@@ -34,7 +34,7 @@ Now, the use of Block Chain is that all the data stored and code is in form of s
 <img src="snapshots/6.jpeg" width="280" height="500"> &nbsp;&nbsp;&nbsp;
 
 # Presentation:
- - [Let's See Presentation]()
+ - [Let's See Presentation](Contra-Farm.pptx)
 # Video Demo & WorkFlow Visualisation:
 1. [Let's See Demo]() 
 2. [WorkFlow Visualisation](https://www.figma.com/file/gKfVYnFcNWX0DHKrMSGQ5j/ContraFarm?node-id=10%3A291)
