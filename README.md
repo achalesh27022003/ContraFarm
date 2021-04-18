@@ -37,7 +37,8 @@ Now, the use of Block Chain is that all the data stored and code is in form of s
  - [Let's See Presentation]()
 # Video Demo & WorkFlow Visualisation:
 1. [Let's See Demo]() 
-2. [WorkFlow Visualisation]()
+2. [WorkFlow Visualisation](https://www.figma.com/file/gKfVYnFcNWX0DHKrMSGQ5j/ContraFarm?node-id=10%3A291)
+)
 
 # Contributors ✨:
 1. **Team Name:** COMET LABS
