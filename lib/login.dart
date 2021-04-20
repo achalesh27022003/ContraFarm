@@ -29,7 +29,7 @@ class LoginScreen extends StatelessWidget {
                   height: 48.0,
                 ),
                 Text(
-                  'Loging',
+                  'Login',
                   style: TextStyle(
                     fontSize: 24.0,
                     fontWeight: FontWeight.w700,
